@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+* {
+ 
+  font-family: "Roboto", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+
+}
+.navbar {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-color: rgb(3, 148, 66) !important;
+}
+
+.intro {
+  padding-top: 200px;
+  padding-bottom: 150px;
+  /* background-image: url(https://www.xtrafondos.com/wallpaper/3840x2160/12756-explosion-poligonal-verdes-abstractos.html); */
+  background:linear-gradient(
+    to bottom,
+  rgba(255,0,0,0.393),
+  rgba(241, 159, 7, 0.336)
+  ), url(../img/Fondo\ img.jpeg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  min-height:500px;
+  text-align:center;
+}
+.intro-seccion {
+  min-height: 200px;
+}
+
+section {
+padding: 60px 0;
+
+}
+footer {
+  padding: 60px 0 ;
+  background-color: rgba(0, 0, 0, 0.523);
+}
+}
+.bg-gris {
+ background-color: #d5d1cc; 
+}
+
+.nav-link {
+  padding:0 20px !important;
+
+}
+
+.nav-link :hover {
+  color: purple;
+
+
+}
+
+.nav.nav-link {
+
+}
+
+.brand {
+height: 40px;
+
+}
+.btn-inicio {
+  color: ;
+}
+
+.header{
+padding: 40px 0;
+padding-right: 100px 0px;
+}
+
+}
+
+h1 {
+font family:
+
+}
+h2 {
+  font-family: ;
+}
+
+input, textarea {
+  background-color: white !important;
+}
+
+@media (max-width: 600px) {
+  body {
+      background-color: lightgreen;
+  }
+}
